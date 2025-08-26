@@ -69,3 +69,5 @@ npm run test
 - Keyboard navigation and accessibility features---
   description: Repository Information Overview
   alwaysApply: true
+## Feature: Upload & Preview
+This branch implements the image upload and preview functionality.
