@@ -71,3 +71,6 @@ npm run test
   alwaysApply: true
 ## Feature: Upload & Preview
 This branch implements the image upload and preview functionality.
+# Awesome Project
+This is my awesome repo 🚀
+(Added in PR #2)
