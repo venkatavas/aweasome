@@ -1,0 +1,5 @@
+/* Additional small overrides */
+img {
+  display: block;
+  max-width: 100%;
+}
